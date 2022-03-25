@@ -1,0 +1,24 @@
+{
+  "name": "remove-utf8-bom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "bin": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandobhz/remove-utf8-bom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandobhz/remove-utf8-bom/issues"
+  },
+  "homepage": "https://github.com/fernandobhz/remove-utf8-bom#readme",
+  "dependencies": {
+    "glob": "^7.2.0"
+  }
+}
